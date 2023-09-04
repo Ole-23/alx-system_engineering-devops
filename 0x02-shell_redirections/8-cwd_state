@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "ls -la output written to ls_cwd_content."
